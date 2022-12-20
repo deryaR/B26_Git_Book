@@ -1,9 +1,6 @@
 .idea
 *.iml
-out
 *.xml
-secret.txt
-fun.txt
-
+/out
 
 # comment with hashtag
